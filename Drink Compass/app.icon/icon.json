@@ -1,0 +1,76 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.28235,0.72941,0.37647,1.00000",
+      "display-p3:0.21883,0.65734,0.31299,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "glass" : true,
+          "image-name" : "storefront_1000dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png",
+          "name" : "storefront_1000dp_E3E3E3_FILL0_wght400_GRAD0_opsz48",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              10.5
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    },
+    {
+      "layers" : [
+
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    },
+    {
+      "layers" : [
+        {
+          "image-name" : "near_me_200dp_E3E3E3_FILL0_wght400_GRAD0_opsz48.png",
+          "name" : "near_me_200dp_E3E3E3_FILL0_wght400_GRAD0_opsz48",
+          "position" : {
+            "scale" : 1.9,
+            "translation-in-points" : [
+              0,
+              153
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
