@@ -50,6 +50,10 @@ If location permission is denied or location services are unavailable, the app c
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [Terms of Use](TERMS_OF_USE.md)
 
+## Third-party assets
+
+The app icon incorporates Google's **storefront** and **near_me** icons from [Material Symbols](https://fonts.google.com/icons). Material Symbols are provided by Google under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). The symbols are used as layers in Drink Compass's custom app-icon composition.
+
 ## Project structure
 
 - `ContentView.swift` — search orchestration, ETA comparison, and compass UI
